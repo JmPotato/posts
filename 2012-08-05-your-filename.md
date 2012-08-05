@@ -11,3 +11,5 @@ whtsky刚帮我弄好，标记一下使用方法：
 
 正文
 ```
+
+还有Markdown使用技巧：http://wowubuntu.com/markdown/
