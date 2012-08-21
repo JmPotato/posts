@@ -20,7 +20,7 @@ except:
 
 后来，whtsky又提供了另一种方法
 ```python
-a = locals().get(“a”, “1”)
+a = locals().get("a", "1")
 ```
 `locals()`会返回所有的局部变量（一个dict），这样可以判断`a`是否在其中，这也是一种不错的方法
 
