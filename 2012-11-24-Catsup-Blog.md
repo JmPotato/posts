@@ -6,7 +6,7 @@
 在这写一下，以免以后在配置的时候走弯路。
 #配置Catsup
 首先要从Github上把Catsup克隆下来，在SSH里进行如下操作
-```
+```ssh
 git clone git clone git://github.com/whtsky/catsup.git
 cd catsup
 pip install -r requirements.txt
