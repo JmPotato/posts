@@ -32,7 +32,7 @@ deploy_path = os.path.join(catsup_path, 'deploy')
 
 twitter = 'PotatoBrothers'
 github = 'PotatoBrother'
-disqus_shortname = 'potato'
+disqus_shortname = 'catsup'
 foot_dcrp = 'I hope you have fun browsing my blog'
 about_me = 'Potato,13 years old,Computher Fans,Cube Fans,Apple Fans'
 feed = 'feed.xml'
@@ -65,8 +65,8 @@ settings = dict(static_path=os.path.join(theme_path, 'static'),
     links=links,
     static_url=static_url,
     google_analytics=google_analytics,
-     about_me=about_me,
-     foot_dcrp=foot_dcrp,
+    about_me=about_me,
+    foot_dcrp=foot_dcrp,
 )
 ```
 接着，把Github上的post项目克隆到catsup目录
@@ -78,7 +78,7 @@ OK，配置完毕，接下来我们要把它切换成静态的，在SSH里输入
 python catsup.py deploy
 ```
 Catsup配置完毕，接下来是Nginx和Webhook的配置
-#Webhhok的配置
+#Webhook的配置
 为了使Catsup可以和Github的post项目同步发表博文，我们需要Webhook，在SSH里输入：
 ```
 python catsup.py webhook --port=1234
