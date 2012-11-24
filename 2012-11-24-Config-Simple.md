@@ -3,7 +3,7 @@
 
 ----
 
-whtsky终于把反人类的`config.py`文件精简了一下，现在我的配置如下：
+whtsky终于把反人类的`config.py`文件精简了一下，变得简单不少，现在我的配置如下：
 ```python
 #coding=utf-8
 site_title = 'PotatoJun'
