@@ -49,7 +49,7 @@ github = 'whtsky'   #你的GitHub名
 links = (
     ('whtsky', 'http://whouz.com', 'I write catsup'),
     ('catsup', 'https://github.com/whtsky/catsup', 'the source of this blog'),
-)    #友联，自行添加
+)    #友链，自行添加
 ```
 更改完毕以后，保存。
 然后删除catsup文件夹里的`_post`文件，把你自己的克隆下来：
