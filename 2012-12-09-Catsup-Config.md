@@ -12,7 +12,7 @@ http://whouz.com/
 http://potato-jun.tk/
 GitHub项目地址：https://github.com/whtsky/catsup#readme
 #准备工作
-首先，要在[GitHub](https://github.com/ "创建项目")创建一个名为`_post`的项目，登录后点击右边栏`New 的Repository`创建新项目。
+首先，要在[GitHub](https://github.com/ "创建项目")创建一个名为`_post`的项目，登录后点击右边栏`New Repository`创建新项目。
 在进行下一步之前，你的服务器需要装有Nginx和Python，没有的请自行安装。
 #配置Catsup
 打开服务器的SSH，输入如下指令把catsup从GitHub克隆下来
