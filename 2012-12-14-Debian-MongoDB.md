@@ -20,7 +20,6 @@ sudo apt-get update
 ```bash
 sudo apt-get install mongodb-10gen
 ```
-----------------------------------
 #运行
 启动，停止，重启的命令分别为：
 ```bash
