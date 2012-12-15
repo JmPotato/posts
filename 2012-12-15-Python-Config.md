@@ -24,7 +24,7 @@ path = C:\Python27;C:\Python27\Scripts
 
 #安装pip
 在cmd里输入
-``bash
+```bash
 easy_install pip
 ```
 pip安装好后，输入`pip install`+安装包名称。
