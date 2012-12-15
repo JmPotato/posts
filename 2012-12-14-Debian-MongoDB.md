@@ -3,6 +3,7 @@
 -tags:Debian, MongoDB, Install
 
 ----
+
 #安装
 首先，添加key，在命令行里输入：
 ```bash
