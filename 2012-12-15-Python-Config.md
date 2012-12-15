@@ -15,7 +15,7 @@
 path = C:\Python27;C:\Python27\Scripts
 ```
 这时候再输入`python`，如果一切正确的话，就能看到Python提示符`>>`啦
-提示：按`Ctrl`+`C`来退出
+提示：按`Ctrl`+`C`来退出 Python
 
 #安装SetupTools
 打开http://pypi.python.org/pypi/setuptools/0.6c11
