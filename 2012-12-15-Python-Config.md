@@ -10,7 +10,7 @@
 安装目录为默认为 C:\Python27
 
 #添加环境变量
-`Win`+`R`键调出`CMD`输入
+`Win`+`R`键调出`CMD`后，输入
 ```bash
 path = C:\Python27;C:\Python27\Scripts
 ```
