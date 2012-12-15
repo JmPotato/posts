@@ -28,4 +28,5 @@ sudo /etc/init.d/mongodb start
 sudo /etc/init.d/mongodb stop
 sudo /etc/init.d/mongodb restart
 ```
+--------------------------------
 以上内容参考自：http://cn.docs.mongodb.org/manual/
