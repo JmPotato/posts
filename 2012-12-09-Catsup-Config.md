@@ -64,7 +64,7 @@ catsup的配置大体完毕，接下来是Webhook的部署
 #配置Webhook
 在SSH里输入
 ```bash
-nohup python catsup.py webhook --port=5555 $
+nohup python catsup.py webhook --port=5555 &
 ```
 然后打开你的`_post`的GitHub项目地址，点击右边的`Admin`，打开后在左侧栏里找到`Service Hooks`，点击`WebHook URLs`，填写Webhook地址
 ```
