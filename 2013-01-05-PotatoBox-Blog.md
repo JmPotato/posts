@@ -13,5 +13,5 @@
 2. 较完善的后台管理
 3. 评论系统
 
-恩，就这些吧
+恩，就这些吧。欢迎大家提供意见！
 GitHub：https://github.com/PotatoBrother/PotatoBox
