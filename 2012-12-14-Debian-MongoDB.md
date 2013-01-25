@@ -1,6 +1,6 @@
 #Debian安装MongoDB
 
--tags:Debian, MongoDB, Install
+-tags:Work
 
 ----
 
