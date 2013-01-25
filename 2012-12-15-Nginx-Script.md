@@ -1,6 +1,6 @@
 #Debian增加Nginx启动脚本
 
--tags:Work
+-tags:Work,Nginx
 
 ----
 
