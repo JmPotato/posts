@@ -1,6 +1,6 @@
 #开学进入状态后第一周的情况
 
-- tags: School, Stduy, Life
+- tags: Life
 
 ----
 
