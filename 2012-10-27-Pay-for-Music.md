@@ -1,5 +1,5 @@
 #音乐免费下载时代或年底终结：包月收费制将至
-- tags: Pay, Music
+- tags: Review
 
 ----
 
