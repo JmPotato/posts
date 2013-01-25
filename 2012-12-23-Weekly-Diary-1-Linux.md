@@ -1,6 +1,6 @@
 #土豆周记 之 Windows控的Linux荒野生存
 
--tags:Weekly Diary, Linux, Ubuntu, Debian
+-tags:Review
 
 ----
 
