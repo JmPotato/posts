@@ -1,6 +1,6 @@
 #Nginx用法总结
 
--tags: Work
+-tags: Work,Nginx
 
 ----
 
