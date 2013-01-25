@@ -1,6 +1,6 @@
 #英文歌曲推荐
 
--tags:Music
+-tags:Life
 
 ----
 
