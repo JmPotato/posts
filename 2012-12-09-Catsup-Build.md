@@ -7,6 +7,7 @@
 #关于Catsup
 [whtsky](http://whouz.com/ "whtsky的博客")大牛写的一个轻量级博客，Python+Tornado。博客依靠[GitHub](https://github.com/PotatoBrother/_posts "我的博文")和[Markdown](http://baike.baidu.com/view/2311114.htm "Markdown简介")写作。
 几个catsup博客：
+http://messense.me/
 http://linyis.tk/
 http://whouz.com/
 http://potatobox.org
