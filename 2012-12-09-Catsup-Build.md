@@ -9,7 +9,7 @@
 几个catsup博客：
 http://linyis.tk/
 http://whouz.com/
-http://potato-jun.tk/
+http://potatobox.org
 GitHub项目地址：https://github.com/whtsky/catsup#readme
 #准备工作
 首先，要在[GitHub](https://github.com/ "创建项目")创建一个名为`_post`的项目，登录后点击右边栏`New Repository`创建新项目。
