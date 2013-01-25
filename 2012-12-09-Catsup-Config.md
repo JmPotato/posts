@@ -1,6 +1,6 @@
 #Catsup部署教程
 
--tags:Catsup,Blog,Github,Python,Nginx,Webhook,SSH
+-tags:Work
 
 ----
 
