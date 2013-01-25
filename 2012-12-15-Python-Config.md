@@ -1,6 +1,6 @@
 #Windows下Python的配置
 
--tags:Python, EasyInstall, pip
+-tags:Work,Python
 
 ----
 
