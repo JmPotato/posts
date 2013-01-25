@@ -1,6 +1,6 @@
 #PotatoBox开工了喵
 
--tags:PotatoBox,Blog,Python,Tornado,MongoDB
+-tags:Work,Python
 
 ----
 
