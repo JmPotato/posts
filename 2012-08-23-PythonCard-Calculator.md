@@ -1,6 +1,6 @@
 #用Python+PythonCard写了个简易的GUI计算器
 
-- tags: Python, PythonCard
+- tags: Python,Work
 
 ----
 
