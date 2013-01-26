@@ -1,6 +1,6 @@
 # 公布下PotatoBox访问量
 
--tags:Work,Statistical
+-tags:Work
 
 ----
 
