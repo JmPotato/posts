@@ -20,3 +20,6 @@ PS：现在在家里坐等iPhone4s
 
 *Update Jan 24th, 2013*
 iPhone4s到手了哈哈哈，不过买的第二天就降价了220元。(怒摔
+
+*Update Jan 30th, 2013*
+老爸看着老妈用iPhone4s眼馋，随即又买了一个。
