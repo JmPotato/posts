@@ -1,6 +1,6 @@
 #论iPhone4s与我的压岁钱
 
--tags:Life
+-tags:Life，Review
 
 ----
 
