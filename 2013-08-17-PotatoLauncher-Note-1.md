@@ -15,7 +15,7 @@ https://login.minecraft.net/?user=帐号&password=密码&version=13
 https://login.minecraft.net/?user=ipotato@gmail.com&password=XXOO&version=13
 ```
 可以利用C#的`System.Net`和`System.IO`命名空间，在导入之后，利用以下代码向服务器发起请求。
-```C#
+```CSharp
 string username = "ipotato@gmail.com";
 string password = "XXOO";
 string url = "https://login.minecraft.net/?user=" + username + "&password=" + password + "&version=13";
@@ -32,7 +32,7 @@ reader.Close();
 一段数字:deprecated:游戏名称:密码的md5值
 ```
 这时，我们就可以利用C#的字符串的截取功能，利用字符串中的`:`将我们需要的用户名和密码的md5值截取下来。
-```C#
+```CSharp
 string[] LoginParameter = s.Split(':');
 result = "\"" + LoginParameter[2] + "\" \"" + LoginParameter[3] + "\"";
 ```
