@@ -1,4 +1,4 @@
-#PotatoBrother开发笔记——正版验证
+#PotatoLauncher-开发笔记——正版验证
 
 - tags: Work, C#
 
