@@ -22,7 +22,7 @@ string password = "XXOO";
 string url = "https://login.minecraft.net/?user=" + username + "&password=" + password + "&version=13";
 
 WebClient Login = new WebClient();
-Stream data = client.OpenRead(url);
+Stream data = Login.OpenRead(url);
 StreamReader LoginResult = new StreamReader(data);
 string s = reader.ReadToEnd();
 data.Close();
