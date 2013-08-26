@@ -40,4 +40,4 @@ string[] LoginParameter = s.Split(':');
 result = "\"" + LoginParameter[2] + "\" \"" + LoginParameter[3] + "\"";
 ```
 
-在启动时将变量`result`的内容附加到启动参数后面，便可以实现正版启动。
+在启动时将变量`result`的内容附加到启动参数后面，便可以实现正版启动了。
