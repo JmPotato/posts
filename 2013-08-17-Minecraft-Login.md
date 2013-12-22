@@ -1,4 +1,4 @@
-#PotatoLauncher开发笔记——正版验证
+#关于Minecraft的正版验证
 
 - tags: Work, C#
 
