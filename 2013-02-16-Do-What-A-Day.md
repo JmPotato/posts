@@ -9,25 +9,21 @@
 那么，我一天到晚的趴在电脑前干些什么呢？
 
 #游戏
-好吧，最近被同学拉入了LOL的坑里面，基本上每天2~3把（有兴趣的同学可以来黑色玫瑰找我哦，ID：PotatoBrother）。
+经常玩COC，有兴趣的加我GC吧：ghzpotato@gmail.com
 在此之余，还会玩玩Minecraft，我喜欢MC给我带来的真正的“自由感”。有时会和几位朋友在服务器里乱搞（误
 
 #音乐&影视
-这个是我每天都会干的，去[Bilibili](http://www.bilibili.tv/)和[ACFan](http://www.acfun.tv/)里找找看有没有什么有趣的视频，偶尔会看看新番（当然，只是一集不到。。
+这个是我每天都会干的，去[Bilibili](http://www.bilibili.tv/)里找找看有没有什么有趣的视频，偶尔会看看新番。
 平时无聊时也会在QQ音乐上听听歌
 
 #社区
 基本上去的几个社区都比较固定，列个表吧，按我的活跃度来排列：
 
 * [PBB](http://pbb.whouz.com/)
-* [精英盒子](http://jybox.net/)
-* [PythonChina](http://python-china.org/)
 * [V2EX](http://www.v2ex.com/)
 
 #社交
-腾讯微博上相当活跃，有At会很快回复，求关注：http://t.qq.com/ghz990701
-以前会经常上Twitter，现在没怎么管了，不过偶尔也会上去瞅一眼：https://twitter.com/PotatoBrothers
-Path一般经常上，不过不怎么发言。。ID：耿海直
+会经常上Twitter，求fo：https://twitter.com/PotatoBrothers
 
 #阅读
 我很少在电脑上看书，只是翻翻朋友的博客，文档什么的
@@ -36,7 +32,7 @@ Path一般经常上，不过不怎么发言。。ID：耿海直
 QQ一般都会挂着，但不怎么回。。求交往：496135569
 
 #写代码
-这个是最坑的，每天都有许多想法来写，但写到一半都会坑掉，电脑里有许多烂掉的代码。偶尔上Github翻翻代码，挑挑错（只能挑跳低级错误=_=）
+这个是最坑的，每天都有许多想法来写，但写到一半都会坑掉，电脑里有许多烂掉的代码。主要方向是Python的Web开发，有兴趣的在Github上关注我吧：JmPotato
 
 #博客
-这个博客我一直在更新，几乎没怎么断过，基本上一周至少1~2篇文章，欢迎RSS订阅
+这个博客我一直在更新，几乎没怎么断过，欢迎RSS订阅
