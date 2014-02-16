@@ -1,4 +1,4 @@
-#Tornado中Render固定全局变量
+#Tornado中render()固定全局变量
 
 -tags: Work, Python
 
