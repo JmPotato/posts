@@ -1,10 +1,10 @@
-#在Mac上给Python安装及配置pip
+#在Mac上给Python安装及配置Pip
 
--tags:Python, Work, Mac
+-tags:Python, Work, Pip, Mac
 
 ----
 
-把Python的配置过程写下来，以备不时之需。
+把配置过程写下来，以备不时之需。
 
 #安装
 
