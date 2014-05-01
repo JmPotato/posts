@@ -21,10 +21,7 @@ $ python distribute_setup.py
 
 ```bash
 
-$ wget https://pypi.python.org/packages/source/p/pip/pip-1.5.tar.gz
-$ tar xzf pip-1.5.tar.gz
-$ cd pip-1.5
-$ python setup.py install
+$ easy_install pip
 
 ```
 
