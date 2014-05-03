@@ -4,7 +4,7 @@
 
 ----
 
-只是我在译言上看到的一篇译文。来自 NASA Marshall 太空航行中心的科学副总监 Ernst Stuhlinger 给一位名叫 Mary Jucunda 赞比亚修女的回信。信中，Mary Jucunda 修女问道：目前地球上还有这么多小孩子吃不上饭，他怎么能舍得为远在火星的项目花费数十亿美元。
+这是我在译言上看到的一篇译文。来自 NASA Marshall 太空航行中心的科学副总监 Ernst Stuhlinger 给一位名叫 Mary Jucunda 赞比亚修女的回信。信中，Mary Jucunda 修女问道：目前地球上还有这么多小孩子吃不上饭，他怎么能舍得为远在火星的项目花费数十亿美元。
 Stuhlinger 很快给Jucunda 修女回了信，同时还附带了一张题为“升起的地球”的照片，这张标志性的照片是宇航员 William Anders 于1968年在月球轨道上拍摄的（照片中可以看到月球的地面）。他这封真挚的回信随后由 NASA 以《为什么要探索宇宙》为标题发表。
 
 ****
@@ -73,4 +73,8 @@ Stuhlinger 很快给Jucunda 修女回了信，同时还附带了一张题为“�
 科学副总监
 
 1970年5月6日
+
+****
+
+原文链接：http://select.yeeyan.org/view/265546/309669
 
