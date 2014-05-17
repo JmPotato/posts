@@ -1,6 +1,6 @@
 #Tornado中render()固定全局变量
 
--tags: Work, Python
+-tags:Python, Tornado
 
 ----
 

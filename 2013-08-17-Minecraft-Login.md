@@ -1,6 +1,6 @@
 #关于Minecraft的正版验证
 
-- tags: Work, C#
+-tags:C#, Minecraft
 
 ----
 

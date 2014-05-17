@@ -1,6 +1,6 @@
 #Geek指南
 
--tags:Review
+-tags:Review, Geek, Guide
 
 ----
 

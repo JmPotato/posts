@@ -1,6 +1,6 @@
 #Pomash大体完工
 
--tags:Work, Python, Pomash
+-tags:Python, Pomash
 
 ----
 

@@ -1,6 +1,6 @@
 #如何判断一个变量是否被定义
 
-- tags: Work,Python
+-tags:Python
 
 ----
 
