@@ -1,6 +1,6 @@
 #为什么要探索宇宙
 
--tags:Space,Review,Mark
+-tags:Space,Review
 
 ----
 
