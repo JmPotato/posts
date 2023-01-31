@@ -1,0 +1,11 @@
+# OSX leaves these everywhere on SMB shares
+._*
+
+# OSX trash
+.DS_Store
+
+# Vim swap files
+*.swp
+
+# Vscode files
+.vscode/**
